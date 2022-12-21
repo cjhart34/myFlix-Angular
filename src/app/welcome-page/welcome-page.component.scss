@@ -1,0 +1,27 @@
+:host {
+    .main-page {
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+        padding: 1rem;
+        font-family: 'Amazon Ember', sans-serif;
+
+        h1 {
+            color: white;
+            margin-bottom: 1rem;
+        }
+
+        .sign-up {
+            background-color: #DAA520;
+            color: black;
+        }
+
+        .log-in {
+            background-color: white;
+            color: rgb(43, 41, 41);
+        }
+    }
+}

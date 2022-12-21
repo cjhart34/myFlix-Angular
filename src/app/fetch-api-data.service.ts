@@ -30,7 +30,7 @@ export class FetchApiDataService {
       .pipe(catchError(this.handleError));
   }
 
-  getMovies(): Observable<any> {
+  getAllMovies(): Observable<any> {
     const token = localStorage.getItem('token');
     return this.http
       .get(`${apiUrl}/movies`, {

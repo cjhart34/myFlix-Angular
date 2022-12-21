@@ -1,16 +1,15 @@
 :host {
-    .main-page {
-        box-sizing: border-box;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
+    .app-wrapper {
+        background-color: #312b34;
         height: 100%;
-        padding: 1rem;
-
-        h1 {
-            color: #606060;
-            margin-bottom: 1rem;
-        }
-
+        font-family: 'Amazon Ember', sans-serif;
     }
+}
+
+mat-button {
+    color: white;
+}
+
+.mat-mdc-card-actions {
+    color: white;
 }
