@@ -18,7 +18,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Live Link
 
-[MyFlix](https://cjhart34.github.io/MyFlix-Angular)
+[MyFlix](https://cjhart34.github.io/myFlix-Angular)
 
 ## Repository Link
 
