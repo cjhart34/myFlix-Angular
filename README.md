@@ -9,6 +9,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 * Angular
 * TypeScript
 * TypeDoc
+* HTML
+* CSS
 
 
 ## Images
